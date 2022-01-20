@@ -3,6 +3,7 @@ Reactjs project fully responsive to create instant note and delete notes on a cl
 
 To work on this project
 Clone this repository 
+and cd to Notes-keeper-project
 "npm i" to install all packages 
 run " npm start "
 
